@@ -1,4 +1,4 @@
-#ft_irc
+# ft_irc
 ** **
 A lightweight IRC (Internet Relay Chat) server implemented in **C++98**, built as part of the 42 school curriculum. 
 
